@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 69.575 62.268">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-164.741" y1="229.196" x2="-164.49" y2="228.208" gradientTransform="matrix(66.575, 0, 0, -59.268, 10993.929, 13586.695)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6b5faa"/>
+      <stop offset="0.223" stop-color="#8d8fc6"/>
+      <stop offset="0.506" stop-color="#66cbf4"/>
+      <stop offset="0.759" stop-color="#d1e092"/>
+      <stop offset="0.996" stop-color="#fedc00"/>
+    </linearGradient>
+  </defs>
+  <path d="M28.012,35.46a20.974,20.974,0,0,0,6.206,4.945,11.9,11.9,0,0,0,9.362.648,9.042,9.042,0,0,0,5.582,16.012c10.79-.032,15.313-10.524,15.938-12.032A40.138,40.138,0,0,0,62.42,9.325,15.706,15.706,0,0,0,37.773,6.414h0A16.1,16.1,0,0,0,23.3,1.763C8.922,3.832,4.1,19.608,4.1,19.608S-4.687,44.47,10.048,57.493A13.608,13.608,0,0,0,30.31,39.74a22.691,22.691,0,0,1-2.3-4.282h0Z" stroke="#231f20" stroke-miterlimit="10" stroke-width="3" fill="url(#linear-gradient)"/>
+</svg>
